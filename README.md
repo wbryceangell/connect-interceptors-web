@@ -12,7 +12,7 @@ A library of interceptors for [ConnectRPC](https://connectrpc.com) browser clien
 ## Installation
 
 ```sh
-yarn add connect-interceptors-web @connectrpc/connect @connectrpc/connect-web
+npm install connect-interceptors-web @connectrpc/connect @connectrpc/connect-web
 ```
 
 ## Usage
@@ -84,7 +84,7 @@ See [connect-es #836](https://github.com/connectrpc/connect-es/issues/836) for b
 ## Development
 
 ```sh
-yarn install
-yarn test
-yarn build
+npm install
+npm test
+npm build
 ```
